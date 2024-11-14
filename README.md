@@ -26,4 +26,6 @@ Steps:
     Visualize the output in both command prompt and Docker desktop app
 
 Output:![my3 docker proof credit risk management](https://github.com/user-attachments/assets/97442af8-a9cd-46a6-addf-5c3861440c3c)
+![test-1 proof of jenkins](https://github.com/user-attachments/assets/74689577-5b5e-4723-b1cd-b49383f93899)
+
 
